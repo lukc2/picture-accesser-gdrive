@@ -1,0 +1,17 @@
+{
+  "Settings": {
+    "Discord": {
+      "Width": "0",
+      "Height": "50"
+    },
+    "Facebook": {
+      "Width": "80",
+      "Height": "80"
+    }
+  },
+  "Config": {
+    "Main": "emotes",
+    "Backup": "AccesserBackup",
+    "Tray": "false"
+  }
+}
