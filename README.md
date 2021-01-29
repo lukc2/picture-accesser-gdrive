@@ -49,7 +49,7 @@ Just in case - packages that program is using:
 ```
 Update-Package -Reinstall
 ```
-In package manager if NuGet won't ask to install those by itself
+In package manager if NuGet won't manage to install those by itself
 
 ### Author
 https://github.com/lukc2
