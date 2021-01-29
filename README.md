@@ -45,7 +45,11 @@ Just in case - packages that program is using:
  - Newtonsoft.Json.12.0.3
  - System.Drawing.Common.5.0.0
  - System.ValueTuple.4.5.0
-
+ 
+```
+Update-Package -Reinstall
+```
+In package manager if NuGet won't ask to install those by itself
 
 ### Author
 https://github.com/lukc2
