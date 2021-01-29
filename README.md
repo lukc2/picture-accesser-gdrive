@@ -32,6 +32,7 @@ You can get those (as of rn, v3) from
 
 https://developers.google.com/drive/api/v3/quickstart/dotnet
 
+
 It's possible to change images folder from withing program of in "config.json" file
 
 Just in case - packages that program is using:
@@ -46,6 +47,8 @@ Just in case - packages that program is using:
  - System.Drawing.Common.5.0.0
  - System.ValueTuple.4.5.0
  
+ You need to save new solution (just 'save as' or it shows on closing)
+Do:
 ```
 Update-Package -Reinstall
 ```
