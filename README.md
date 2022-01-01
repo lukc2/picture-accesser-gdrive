@@ -23,7 +23,7 @@ Allows to access files on Google Drive and:
  
 Backup checkbox makes it save changed images into another folder (on Google Drive of course)
 
-It was uni project so don't expect the cleanest clode, even though was trying to separate it somehow into files
+It was uni project so don't expect the cleanest code, even though was trying to separate it into files for cleaner functionality tree
 Could be useful for those that need to learn V3 Drive api things, because actually finding how to do those actions was kind of time consuming...
 
 ## Before building
